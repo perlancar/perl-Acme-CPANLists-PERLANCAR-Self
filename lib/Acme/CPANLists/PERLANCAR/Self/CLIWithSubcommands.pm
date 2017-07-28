@@ -19,6 +19,7 @@ our @Module_Lists = (
             {module => 'App::shcompgen'     , scripts => ['shcompgen']},
             {module => 'App::short'         , scripts => ['short']},
             {module => 'App::TableDataUtils', scripts => ['gen-rand-table']},
+            {module => 'App::perlmv::u'     , scripts => ['perlmv-u']},
             {module => 'App::trash::u'      , scripts => ['trash-u']},
             {module => 'App::upf'           , scripts => ['upf']},
             {module => 'App::wp::xmlrpc'    , scripts => ['wp-xmlrpc']},
